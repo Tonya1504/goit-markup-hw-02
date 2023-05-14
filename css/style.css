@@ -10,6 +10,7 @@
   --first-title-color: #ffffff;
   --title-our-work-color: #2e2f42;
   --logo-color: #2e2f42;
+  --background-color-btn: #f4f4fd;
 }
 body {
   font-family: 'Roboto', sans-serif;
@@ -208,9 +209,10 @@ body {
 }
 
 .btn-navigation {
+  font-family: 'Roboto', sans-serif;
   font-weight: 500;
   font-size: 16px;
-  line-height: 1.15;
+  line-height: 1.5;
   /* identical to box height, or 150% */
   display: flex;
   align-items: center;
@@ -218,6 +220,7 @@ body {
   letter-spacing: 0.04em;
   color: #4d5ae5;
   cursor: pointer;
+  background-color: var(--background-color-btn);
 }
 
 .btn-navigation:hover,
