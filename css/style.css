@@ -56,7 +56,6 @@ body {
   font-style: normal;
 }
 .adress-item {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -78,7 +77,6 @@ body {
 }
 
 .hero-title {
-  font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
@@ -121,7 +119,6 @@ body {
 }
 
 .post-cats-text {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   /* or 150% */
@@ -130,7 +127,6 @@ body {
 }
 
 .our-work-title {
-  font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
   /* identical to box height, or 111% */
@@ -148,7 +144,6 @@ body {
   background-color: #ffffff;
 }
 .team-title {
-  font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
@@ -166,7 +161,6 @@ body {
 }
 
 .team-text {
-  font-weight: 400;
   font-size: 16px;
   line-height: 24px;
   /* identical to box height, or 150% */
@@ -176,7 +170,6 @@ body {
 
 .logo-footer {
   font-family: 'Raleway', sans-serif;
-  font-style: normal;
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
@@ -202,7 +195,6 @@ body {
 }
 
 .footer-text {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -240,7 +232,6 @@ body {
 }
 
 .portfolio-text {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   /* identical to box height, or 150% */
